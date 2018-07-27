@@ -9,4 +9,6 @@ Each data set is listed below by the first author on the original paper. The dat
 * Breast Cancer
 
 
+<a href="https://www.codecogs.com/eqnedit.php?latex=$$&space;\frac{\alpha}{\beta}&space;$$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$$&space;\frac{\alpha}{\beta}&space;$$" title="$$ \frac{\alpha}{\beta} $$" /></a>
+
 $\sa$
